@@ -1,0 +1,26 @@
+# Skills Configuration
+# Load with: SkillsConfig.from_yaml("skills_config.yaml")
+
+skill_directories:
+  - ./sample_skills
+
+validation:
+  validate_on_load: true
+  strict_mode: false
+
+scripts:
+  enabled: true
+  sandbox: true
+  timeout: 60
+  allowed_interpreters:
+    - python3
+    - bash
+
+security:
+  allow_network: true
+  allow_filesystem_write: True
+  working_dir_only: true
+
+prompt:
+  max_skill_description: 200
+  include_compatibility: False

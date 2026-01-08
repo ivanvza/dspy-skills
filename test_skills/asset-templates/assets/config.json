@@ -1,0 +1,17 @@
+{
+  "report_settings": {
+    "include_timestamp": true,
+    "include_header": true,
+    "date_format": "YYYY-MM-DD",
+    "max_width": 80
+  },
+  "placeholders": {
+    "PROJECT_NAME": "Untitled Project",
+    "STATUS": "Unknown",
+    "DATE": "Not specified"
+  },
+  "metadata": {
+    "template_version": "1.0",
+    "skill_name": "asset-templates"
+  }
+}

@@ -1,0 +1,20 @@
+=====================================
+         PROJECT REPORT
+=====================================
+
+Project Name: {{PROJECT_NAME}}
+Status: {{STATUS}}
+Generated: {{DATE}}
+
+-------------------------------------
+Summary
+-------------------------------------
+This report was generated using the
+asset-templates skill template.
+
+Project "{{PROJECT_NAME}}" is currently
+marked as: {{STATUS}}
+
+-------------------------------------
+End of Report
+=====================================
